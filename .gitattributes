@@ -1,5 +1,2 @@
-Shibuya filter=lfs diff=lfs merge=lfs -text
-iOS2/Shibuya filter=lfs diff=lfs merge=lfs -text
-iOS2/Shibuya_high_2Block.scn filter=lfs diff=lfs merge=lfs -text
 Shibuya[[:space:]]iOS2/Shibuya[[:space:]]iOS2/Shibuya_high_2Block.scn filter=lfs diff=lfs merge=lfs -text
 Shibuya[[:space:]]iOS/Shibuya[[:space:]]iOS/shibuyaM.scnassets/Shibuya.scn filter=lfs diff=lfs merge=lfs -text
